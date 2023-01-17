@@ -1,1 +1,2 @@
-# P-38-2nd
+# CarRacingGame1.0
+Car Racing Game Stage 1.0
